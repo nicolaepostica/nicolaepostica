@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nicolaepostica
 - 👀 I’m interested in odoo, react, react-native, django, python
-- 🌱 I’m currently learning kafka
+- 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me nicolae.postica2@gmail.com
 
