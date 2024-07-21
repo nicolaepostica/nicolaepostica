@@ -10,7 +10,7 @@
 
 -   My [Odoo module](https://github.com/nicolaepostica/addons)
 
--   Other modules I worked on: [odoopbx](https://github.com/nicolaepostica/odoopbx)
+-   Other modules I worked on: [odoopbx view only](https://github.com/nicolaepostica/odoopbx)
 
 ### Other
  - Vocaltrance (online radio stations): [frontend](https://github.com/nicolaepostica/vocaltrance_web), [backend](https://github.com/nicolaepostica/vocaltrance_api), [mobile](https://github.com/nicolaepostica/vocaltrance_mobile)
