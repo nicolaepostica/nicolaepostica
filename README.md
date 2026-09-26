@@ -1,7 +1,8 @@
 ## Nicolae Postica
 
 <h1 align="center">Hi 👋, I'm Nicolae</h1>
-<h3 align="center">Python & Odoo Developer</h3>
+<h3 align="center">Full-Stack Developer · Odoo & VoIP</h3>
+<p align="center"><i>Building Odoo modules, VoIP integrations, web and mobile apps (Flutter, React Native). Tinkering with microcontrollers and CAD in my spare time.</i></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=nicolaepostica" alt="nicolaepostica" /></a> </p>
 
